@@ -1,2 +1,2 @@
-# GFT DIO's Bootcamp - Notes and Projects
-Repository created to store annotations and projects from DIO's GFT bootcamp.
+# GFT START #5 JAVA Bootcamp from DIO
+Repository created to store projects and challenges from DIO's GFT START #5 JAVA Bootcamp.
