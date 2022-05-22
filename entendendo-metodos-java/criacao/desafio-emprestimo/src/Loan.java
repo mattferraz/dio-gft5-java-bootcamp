@@ -10,6 +10,8 @@ public class Loan {
         System.out.printf("Valor: %s \nQuantidade de Parcelas: %d\n",
                 currencyFormatter.format(desiredAmount), installments);
 
+        System.out.println("-".repeat(30));
+
         showPayTable(desiredAmount, installments, interestRate);
     }
 
@@ -29,7 +31,7 @@ public class Loan {
                     currencyFormatter.format(debt));
         }
 
-        System.out.printf("%3s %12s %s", "-->", currencyFormatter.format(totalInterest),
+        System.out.printf("%3s %12s %s\n", "-->", currencyFormatter.format(totalInterest),
                 currencyFormatter.format(debt));
     }
 
