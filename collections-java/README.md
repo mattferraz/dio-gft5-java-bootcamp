@@ -14,18 +14,22 @@ Se a pessoa responder positivamente a 2 questões ela deve ser classificada como
 
 ### Set
 - Crie um conjunto contendo as cores do arco-íris e:
-A. Exiba todas as cores uma abaixo da outra
-B. Exiba a quantidade de cores que o arco-íris tem
-C. Exiba as cores em ordem alfabética
-D. Exiba as cores na ordem inversa da que foi informada
-E. Exiba todas as cores que começam com a letra "v"
-F. Remova todas as cores que não começam com a letra "v"
-G. Limpe o conjunto
-H. Confira se o conjunto está vazio
+
+1. Exiba todas as cores uma abaixo da outra
+2. Exiba a quantidade de cores que o arco-íris tem
+3. Exiba as cores em ordem alfabética
+4. Exiba as cores na ordem inversa da que foi informada
+5. Exiba todas as cores que começam com a letra "v"
+6. Remova todas as cores que não começam com a letra "v"
+7. Limpe o conjunto
+8. Confira se o conjunto está vazio
+
 - Crie uma classe LinguagemFavorita que possua os atributos nome, anoDeCriacao e ide. Em seguida, crie um conjunto com 3 linguagens e faça um programa que ordene esse conjunto por:
-A. Ordem de inserção
-B. Ordem natural (nome)
-C. IDE
-D. Ano de criação e nome
-E. Nome, ano de criacao e IDE
+
+1. Ordem de inserção
+2. Ordem natural (nome)
+3. IDE
+4. Ano de criação e nome
+5. Nome, ano de criacao e IDE
+
 Ao final, exiba as linguagens no console, uma abaixo da outra.
